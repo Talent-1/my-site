@@ -8,26 +8,27 @@
 <body>
     <p>Fill in the form below and click submit to sign up</p>
     <form>
+        <div>
         <label for="surname">Surname:</label>
         <input type="text">
-
-        <br>
 
         <label for="first-name">First Name:</label>
         <input type="text">
 
-        <br>
-
         <label for="middle-name">Middle Name:</label>
         <input type="text">
+            </div>
 
         <br>
 
+        <div>
         <label for="email">Email:</label>
         <input type="text" name="email" id="email">
+            </div>
 
         <br>
 
+        <div>
         <label for="gender">Gender:</label>
         <select name="gender" id="gender">
             <option value="1">choose one only</option>
@@ -35,6 +36,30 @@
         <option value="female">Female</option>
         <option value="others">Others</option>
         <option value="rather not say">Rather Not Say</option></select>
+            </div>
+            <br>
+            <div>
+                <label for="dob">Date Of Birth:</label>
+                <input type="date" name="dob" id="dob">
+            </div>
+
+            <br>
+
+            <div>
+                <label for="tel">Tel:</label>
+                <input type="tel" name="phone number" id="phone number">
+            </div>
+
+            <br>
+            <div>
+                <label for="password">Password:</label>
+                <input type="password" name="password" id="password">
+            </div>
+            <br>
+            <div>
+                <label for="message">Message:</label>
+                <input type="text" name="message" id="message" aria-placeholder="40 char">
+            </div>
     </form>
 </body>
 </html>
