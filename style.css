@@ -4,14 +4,13 @@ body {
     text-indent: 0cqb;
     margin-left: 10px;
 }
-p {
+p:hover {
     color: navajowhite;
     display: flex;
     font-display: inherit;
     background-color: rgb(102, 51, 153);
     width: 50%;
 }
-@media screen(<=400) {
-  background-attachment: fixed;  
+@media(min-width: 400) {  
   background-color: white;
 }
