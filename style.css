@@ -12,7 +12,9 @@ p:hover {
     width: 50%;
 }
 img {  
-border-radius: 30px;width: 0cqi;
+border-radius: 30px;
+width: 30px;
+padding: 25px;
 }
 @media(min-width: 400) {  
   background-color: white;
