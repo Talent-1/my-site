@@ -8,5 +8,7 @@ p {
     color: navajowhite;
     display: flex;
     font-display: inherit;
-    background-color: rebeccapurple;
+    background-color: rgb(102, 51, 153);
+    width: 50%;
+    
 }
