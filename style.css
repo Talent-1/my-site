@@ -11,6 +11,9 @@ p:hover {
     background-color: rgb(102, 51, 153);
     width: 50%;
 }
+img {  
+border-radius: 30px;width: 0cqi;
+}
 @media(min-width: 400) {  
   background-color: white;
 }
