@@ -2,5 +2,10 @@ body {
     background-color: aqua;
     width: fit-content;
     text-indent: 0cqb;
-    margin: 10px 10px;
+    margin-left: 10px;
+}
+p {
+    color: navajowhite;
+    display: flex;
+    font-display: inherit;
 }
