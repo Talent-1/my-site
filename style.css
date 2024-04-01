@@ -10,5 +10,8 @@ p {
     font-display: inherit;
     background-color: rgb(102, 51, 153);
     width: 50%;
-    
+}
+@media screen(<=400) {
+  background-attachment: fixed;  
+  background-color: white;
 }
