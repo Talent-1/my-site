@@ -13,9 +13,14 @@ p:hover {
 }
 img: {  
 border-radius: 30px;
+<<<<<<< HEAD
+image-width: 40px;
+=======
 height: 25px;
 width: 20px;
+>>>>>>> 9b4977df8bc34135f192f1512e1d6bfc0ab229e5
 padding: 25px;
+image-height: 40%;
 }
 @media(min-width: 400) {  
   background-color: white;
