@@ -11,10 +11,11 @@ p:hover {
     background-color: rgb(102, 51, 153);
     width: 50%;
 }
-img:hover {  
-    display: flex;
+img: {  
+ display: flex;
+ display-flow: row;
 border-radius: 30px;
-width: 50px;
+width: 40px;
 padding: 25px;
 }
 @media(min-width: 400) {  
