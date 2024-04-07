@@ -20,3 +20,8 @@ image-height: 40%;
 @media(min-width: 400) {  
   background-color: white;
 }
+.register {
+  background-color: blueviolet;
+  width: auto;
+
+}
