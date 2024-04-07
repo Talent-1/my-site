@@ -33,7 +33,13 @@ image-height: 40%;
   margin: auto;
 }
 
-
+* {box-sizing: border-box}
+.mySlides {
+  display: none;
+}
+img {
+  vertical-align: middle;
+}
 
 /* Next & previous buttons */
 .prev, .next {
