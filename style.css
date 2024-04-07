@@ -23,5 +23,9 @@ image-height: 40%;
 #register {
   background-color: blueviolet;
   width: auto;
-
+}
+.slideshow-container {
+  border-radius: 20px;
+  border-bottom: 0cap;
+  border-color: blanchedalmond;
 }
