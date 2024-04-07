@@ -33,9 +33,7 @@ image-height: 40%;
   margin: auto;
 }
 
-.mySlides {
-  display: flex;
-}
+
 
 /* Next & previous buttons */
 .prev, .next {
