@@ -35,7 +35,7 @@ image-height: 40%;
 
 * {box-sizing: border-box}
 .mySlides {
-  display: -webkit-flex;
+  display: inline;
 }
 img {
   vertical-align: middle;
